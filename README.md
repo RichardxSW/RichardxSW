@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=RichardxSW&icon=2&color=10)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 ⚡ Fun fact i like noodle
 
@@ -17,8 +20,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RichardxSW&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RichardxSW&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
