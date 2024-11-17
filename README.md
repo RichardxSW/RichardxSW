@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=RichardxSW&icon=2&color=10)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-⚡ Fun fact i like noodle
+⚡ Programming Enthusiast
 
 
 ## 🌐 Socials:
